@@ -1,2 +1,2 @@
 # TransformaTec
-Repositorios das aulas do curso Dio com o Grupo Carrefour Brasil
+Repositórios das aulas do Bootcamp Dio com o Grupo Carrefour Brasil
